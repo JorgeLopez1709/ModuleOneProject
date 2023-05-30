@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "TestProject1": {
+      "commandName": "Project",
+      "workingDirectory": "H:\\Mi unidad\\C#\\Automation\\TestProject1\\code\\test"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
